@@ -8,4 +8,3 @@ Dentro de cada carpeta de proyecto de cada empresa se encuentras dos tres archiv
  - El README.md explicativo de cada proyecto en el que se plantea el problema, las preguntas a resolver y un breve resumen de las respuestas obtenidas.
 
 Este cuaderno es completamente privado y su contenido no puede ser utilizado para ningun uso.
-
